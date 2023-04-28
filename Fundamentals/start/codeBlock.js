@@ -7,7 +7,6 @@
 
 //Exemplos de bloco de código:
 
-
 // Com apenas uma sentença
 {
     console.log('Bom dia!')
